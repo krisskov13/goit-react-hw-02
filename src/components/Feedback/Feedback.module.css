@@ -1,0 +1,13 @@
+.text {
+  font-weight: 600;
+}
+
+.total {
+  color: darkgreen;
+  font-weight: 600;
+}
+
+.positive {
+  color: blueviolet;
+  font-weight: 600;
+}
